@@ -207,10 +207,3 @@ You can test the API with **Postman** (https://www.postman.com/downloads).
 - **Validation:** express-validator (server), custom inline validation (client)
 
 ---
-
-## Notes for Submission
-
-- Commit early and often with meaningful messages to reflect good Git practice.
-- Add screenshots of the running app (login, dashboard, create/edit task, dark mode)
-  to your documentation.
-- Do **not** commit `.env` files — only the provided `.env.example` files are tracked.
